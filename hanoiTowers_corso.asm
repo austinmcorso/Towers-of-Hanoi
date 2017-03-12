@@ -1,6 +1,5 @@
     .data
 Author:
-    .ascii      "\nCS465 HW 3, Computer Architecture, Fall 2014\n\n"
     .ascii      "Towers of Hanoi\n"
     .asciiz     "Author: Austin Corso\n"
 Prompt:  
